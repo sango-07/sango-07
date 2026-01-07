@@ -65,15 +65,15 @@ Python • FastAPI • AWS • Azure • Docker • Kubernetes
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=sangramg0608&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=sangramg0608)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sangramg0608&layout=compact)
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sango-07&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sango-07&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sango-07&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
